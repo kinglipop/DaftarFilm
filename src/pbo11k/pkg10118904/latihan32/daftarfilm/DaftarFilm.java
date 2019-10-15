@@ -16,10 +16,10 @@ public class DaftarFilm {
     public int filmDuration;
     
     public void nowPlaying() {
-        System.out.println("Judul Film : "+filmName);
-        System.out.println("Genre Film : "+filmGenre);
-        System.out.println("Rating Film : "+filmRating);
-        System.out.println("Duration Film : "+filmDuration+" Menit");
+        System.out.println("Judul film : "+filmName);
+        System.out.println("Genre film : "+filmGenre);
+        System.out.println("Rating film : "+filmRating);
+        System.out.println("Duration film : "+filmDuration+" menit");
         System.out.println("");
     }
 }

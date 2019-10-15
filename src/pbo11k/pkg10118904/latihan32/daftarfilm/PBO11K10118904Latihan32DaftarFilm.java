@@ -27,7 +27,7 @@ public class PBO11K10118904Latihan32DaftarFilm {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("=== Daftar Film Sedang Tayang ===");
+        System.out.println("==== Daftar film sedang tayang ====");
         System.out.println("");
         tmpl("Venom","Action, Horror, Scifi",8.5,120);
         tmpl("Small Foot","Animation",9.0,96);
